@@ -117,6 +117,24 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "test",
+      "species": "testing",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "r",
+      "species": "r",
+      "diet": "folivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "13"
     }
   ]
 }
